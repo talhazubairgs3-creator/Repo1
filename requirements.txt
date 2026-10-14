@@ -1,0 +1,5 @@
+gradio>=5.0
+uvicorn
+sentence-transformers
+numpy
+yt-dlp
